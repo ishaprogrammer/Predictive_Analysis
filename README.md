@@ -149,6 +149,6 @@ For more details, refer to the [API Documentation](http://127.0.0.1:8000/docs).
 
 ---
 
-##Author
+## Author
 [Taskin Shaikh]
 [Email: ishashaikh154@gmail.com]
